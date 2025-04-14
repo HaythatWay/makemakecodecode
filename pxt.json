@@ -1,0 +1,20 @@
+{
+    "name": "makemakecodecode",
+    "version": "0.0.1",
+    "description": "2 makes 2 codes 2 coders, huxley and ethan collab",
+    "license": "MIT",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.48",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
